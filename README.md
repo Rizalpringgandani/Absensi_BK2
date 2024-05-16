@@ -17,24 +17,25 @@ Sebutkan prasyarat yang diperlukan sebelum menginstal proyek ini. Misalnya:
 - PHP versi 8.1.25
 - Composer
 - Web server Apache
-- Visual Studio code atau sejenis
+- teks editor
 - xampp
 
 ## Instalasi
 Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
-1. download  
+1. download
+   download melalui link di bawah ini lalu ekstrak file zip hasil download
     ```bash
     git clone https://github.com/Rizalpringgandani/Absensi_BK2
     ```
-2. Masuk ke direktori proyek
+3. Buka folder hasil download di teks editor 
     ```bash
     cd nama-repo
     ```
-3. Instal dependensi
+4. Instal dependensi
     ```bash
     composer install
     ```
-4. Konfigurasi file `.env`
+5. Konfigurasi file `.env`
     ```bash
     cp .env.example .env
     nano .env
