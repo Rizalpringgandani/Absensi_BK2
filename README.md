@@ -27,6 +27,10 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
     ```bash
     git clone https://github.com/Rizalpringgandani/Absensi_BK2
     ```
+2. ndnffj
+    ```bash
+    git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql
+    ```
 3. 
     ```bash
     git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql
