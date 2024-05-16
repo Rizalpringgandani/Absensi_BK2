@@ -1,4 +1,4 @@
-# Pesensi Siswa SMK Bina Karya 2 Karawang
+# Presensi Siswa SMK Bina Karya 2 Karawang
 
 ## Daftar Isi
 - [Tentang](#tentang)
@@ -27,9 +27,9 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
     ```bash
     git clone https://github.com/Rizalpringgandani/Absensi_BK2
     ```
-3. Buka folder hasil download di teks editor 
+3. 
     ```bash
-    cd nama-repo
+    git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql
     ```
 4. Instal dependensi
     ```bash
