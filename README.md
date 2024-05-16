@@ -27,14 +27,17 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
     ```bash
     git clone https://github.com/Rizalpringgandani/Absensi_BK2
     ```
-2. ndnffj
+2.  buka xampp lalu klik start apache dan myqsl
     ```bash
-    git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql
+    ![Alt text](url_gambar)
+
     ```
-3. 
+3. buka link 
     ```bash
-    git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql
+    [git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql](http://localhost/phpmyadmin/index.php?route=/server/import)
     ```
+    import database [database](database/db_imas.sql)
+
 4. Instal dependensi
     ```bash
     composer install
