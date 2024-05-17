@@ -34,7 +34,7 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
     ```
 3. buka link 
     ```bash
-    [git clone https://github.com/Rizalpringgandani/Absensi_BK2/db/db_imas.sql](http://localhost/phpmyadmin/index.php?route=/server/import)
+    [git clone (http://localhost/phpmyadmin/)
     ```
     import database [database](database/db_imas.sql)
 
